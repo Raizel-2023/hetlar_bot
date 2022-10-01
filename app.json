@@ -17,22 +17,22 @@
 
         "URL_1NAME": {
             "description": "",
-            "value": "تـابعني على الانستغرام",
+            "value": "المطور",
             "required": true
         },
         "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/x_mahmoud_medhat_official_x/",
+            "value": "https://wa.me/+967770500831 ",
             "required": true
         },
         "URL_2NAME": {
             "description": "",
-            "value": "Github",
+            "value": "الدعم",
             "required": true
         },
         "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/",
+            "value": "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn",
             "required": true
         },
 
@@ -43,7 +43,7 @@
         },
         "ALIVE_LOGO": {
             "description": "add direct image url",
-            "value": "https://i.ibb.co/xJfT5Tj/bot.jpg",
+            "value": "https://telegra.ph/file/39272916fd98efa5fec86.jpg",
             "required": true
         },
 
@@ -79,7 +79,7 @@
         },
         "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "卍 HETLAR 𝙱𝙾𝚃 卍",
+            "value": "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙱𝙾𝚃 🔱",
             "required": true
         }
 
